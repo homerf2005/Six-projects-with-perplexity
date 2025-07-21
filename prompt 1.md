@@ -1,4 +1,4 @@
-i've learned these topics of python:
+I've learned these topics of python:
 - python fundementals (variables, I/O, data types, strings, operators)
 -  Conditions, loops (for, while)
 - Anaconda, packages and virtual environments
