@@ -1,4 +1,4 @@
-I've learned these topics of python:
+# I've learned these topics of python:
 - python fundementals (variables, I/O, data types, strings, operators)
 -  Conditions, loops (for, while)
 - Anaconda, packages and virtual environments
@@ -187,6 +187,26 @@ while True:
 - Integrate matplotlib for simple spending charts.
 - Modularize your code—separate logic into different files if it grows.
 
-You now have a step-by-step path to build a practical expense tracker using your current Python skills, while learning file I/O, OOP structuring, and optionally APIs and some data analysis. If you need help with specific code sections or run into errors, ask further questions!
+### Quality Assessment Scale for the Daily Expense Tracker Project
+
+Assign **points for each subtask** based on completion and quality, then sum for a total score.
+
+
+| Section / Subtask | Max Points | Description/Criteria |
+| :-- | :-- | :-- |
+| **1. Features** | 5 | All key features are implemented (input, save, summarize, visualize). |
+| **2. Requirements** | 3 | Proper environment setup and libraries installed correctly. |
+| **3. Application Flow** | 30 |  |
+| 3.1 User Menu | 5 | Menu with options implemented and usable. |
+| 3.2 Add Expense | 10 | Input handling (date, category, amount) and saving to CSV without errors. |
+| 3.3 View Summary Report | 15 | Loading, summing, printing summary, and plotting bar chart all work well. |
+| **4. Code Quality \& Structure** | 30 |  |
+| - Code modularity/functions | 10 | Proper use of functions and separation of concerns. |
+| - Error handling | 10 | Input validation and handling file-not-found or wrong input gracefully. |
+| - Code readability | 10 | Clear, consistent naming, comments where needed. |
+| **5. Extensions / Enhancements** | 10 | Implementing one or more extensions beyond the base functionality. |
+| **Bonus: Creativity \& Design** | 10 | Nice UX touches, code efficiency improvements, added features, etc. |
+
+**Note:** *The maximum total points available start at 100 but decrease by half for every 2 full hours that the project completion is delayed beyond the planned time. For example, if you finish 4 hours late, your maximum available score will be 25 points instead of 100.*
 
 
