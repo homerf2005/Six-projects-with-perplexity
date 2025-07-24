@@ -10,7 +10,7 @@
 - API, URL, requests
 - numpy library, some built-in python libraries (Time, Math, datetime)
 
-give me a project to develop that is:
+*give me a project to develop that is:*
 - a bit challenging, i want to learn somthings new
 - feasible, easy to complete in 1-2 hours
 - solving a real world problem
