@@ -22,3 +22,5 @@ six-projects-with-perplexity turns fresh Python lessons into fast, creative two-
 - Offers a healthy, realistic challenge—even for experienced beginners.
 
 - Build & Reflect: I implement the project and document what worked, what didn't, and what I would do differently next time.
+
+  These projects each have specified quality assessment scales, and you can give numbers to yourself if you serve any of the conditions and subtasks. Also there is one more feature in this scale, is that if you couldnt finish the project in the estimated time (2 hours), the maximum number decrease to half, which is more fun than a simple coding experience.
